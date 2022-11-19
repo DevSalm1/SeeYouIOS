@@ -12,15 +12,16 @@
             <key>IsRemovable</key>
             <true/>
             <key>Label</key>
-            <string>SeeYouIOS</string>
+            <string> Mstafa-MD.StoreVip</string>
             <key>PayloadDescription</key>
             <string>Configures Web Clip</string>
             <key>PayloadDisplayName</key>
-            <string>SeeYouIOS‌</string>
+            <string>Mstafa-MD.StoreVip‌</string>
             <key>PayloadIdentifier</key>
-            <string>com.seeyou-ios.</string>
+            <string>IMstafa</string>
             <key>PayloadOrganization</key>
-            <string>SeeYouIOS‌‌</string>
+            <string>MD-Store.Vip
+Mstafa</string>
             <key>PayloadType</key>
             <string>com.apple.webClip.managed</string>
             <key>PayloadUUID</key>
@@ -30,17 +31,17 @@
             <key>Precomposed</key>
             <true/>
             <key>URL</key>
-            <string>http://www.seeyou-ios.tk</string>
+            <string> https://warm-treacle-04abdc.netlify.app/ </string>
         </dict>
     </array>
     <key>PayloadDescription</key>
     <string>Thanks</string>
     <key>PayloadDisplayName</key>
-    <string>SeeYouIOS</string>
+    <string> Mstafa-MD.StoreVip</string>
     <key>PayloadIdentifier</key>
     <string>com.seeyou-ios.</string>
     <key>PayloadOrganization</key>
-    <string>SeeYouIOS</string>
+    <string> Mstafa-MD.StoreVip</string>
     <key>PayloadRemovalDisallowed</key>
     <false/>
     <key>PayloadType</key>
